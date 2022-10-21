@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/traez/interactive-rating-component-main](https://github.com/traez/interactive-rating-component-main)
-- Live Site URL: [https://traez.github.io/interactive-rating-component-main/](https://traez.github.io/interactive-rating-component-main/)
+- Solution URL: [https://github.com/traez/tip-calculator](https://github.com/traez/tip-calculator)
+- Live Site URL: [https://traez.github.io/tip-calculator/](https://traez.github.io/tip-calculator/)
 
 ## My process
 
