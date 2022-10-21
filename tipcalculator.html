@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+<head>
+<title>Trae's Tip Calculator</title>
+<meta charSet="utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" type="text/css" href="tipcalculator.css"/>
+</head>
+<body>
+
+    <main>
+        <h1>Trae's Tip Calculator</h1>
+
+        <fieldset class="question">
+            <legend>How Much Was Your Bill?</legend>
+            <p>
+                <label>(#)</label>
+                <input type="text" class="howmuch">
+            </p>
+        </fieldset>
+
+        <fieldset class="question">
+            <legend>How Many People Sharing The Bill?</legend>
+            <p>
+                <label>(P)</label>
+                <input type="text" class="howmany">
+            </p>
+        </fieldset>
+
+        <fieldset class="question">
+            <label for="chooseone">How did you find the Service?</label>
+            <select id="chooseone">
+                <option disabled selected>--Please choose an option--</option>
+                <option value="0.2">Great! - 20%</option>
+                <option value="0.1">Good - 10%</option>
+                <option value="0.05">Bad - 2%</option>
+            </select>
+        </fieldset>
+
+        <button type="button">Calculate</button>
+
+        <fieldset class="answers">
+            <legend>Tip Suggestion</legend>
+            <p>
+                <label>Tip Amount (#)</label>
+                <input type="text" class="tip">
+            </p>
+            <p>
+                <label>Total Amount (#)</label>
+                <input type="text" class="total">
+            </p>
+            <p>
+                <label>Split per person (#)</label>
+                <input type="text" class="split">
+            </p>
+        </fieldset>
+    </main>
+  
+    <script src="tipcalculator.js"></script>
+</body>
+</html>
