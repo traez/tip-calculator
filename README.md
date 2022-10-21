@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/traez/tip-calculator](https://github.com/traez/tip-calculator)
-- Live Site URL: [https://traez.github.io/tip-calculator/](https://traez.github.io/tip-calculator/)
+- Live Site URL: [https://traez.github.io/tip-calculator/](https://traez.github.io/tip-calculator)
 
 ## My process
 
